@@ -1,0 +1,16 @@
+{
+  "name": "esbuild-msal",
+  "version": "0.0.1",
+  "description": "todo",
+  "scripts": {
+    "build": "esbuild ./src/index.ts --bundle --minify --format=esm --outfile=msaltest.js"
+  },
+  "keywords": [],
+  "author": "Vegar Ringdal",
+  "license": "MIT",
+  "main": "dist/exported.js",
+  "dependencies": {
+    "@azure/msal-browser": "^2.31.0",
+    "esbuild": "^0.15.14"
+  }
+}

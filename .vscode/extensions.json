@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+      "eamodio.gitlens",
+      "pflannery.vscode-versionlens",
+      "esbenp.prettier-vscode",
+      "bierner.lit-html",
+      "tobermory.es6-string-html",
+      "msjsdiag.debugger-for-chrome"
+    ]
+  }
